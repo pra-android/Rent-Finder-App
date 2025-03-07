@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969846984723",
+    "project_id": "rent-finder-app-2a279",
+    "storage_bucket": "rent-finder-app-2a279.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969846984723:android:f94b8b2b3c200049d8efe6",
+        "android_client_info": {
+          "package_name": "com.example.rentfinderapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCip5Gr6BhcO_DsDz3ZX4v4WfZWbdydsyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
